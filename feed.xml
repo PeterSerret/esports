@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Notícies d'Esport</title>
+        <link>https://www.sport.es</link>
+        <description>Últimes notícies sobre esports</description>
+        <language>ca</language>
+        <pubDate>Thu, 18 Feb 2025 08:00:00 +0000</pubDate>
+
+        <!-- Notícia 1 -->
+        <item>
+            <title>Lamine se pone a cien con el gol como desafío</title>
+            <link>https://www.sport.es/es/noticias/barca/lamine-yamal-pone-cien-gol-desafio-fc-barcelona-114439594</link>
+            <description>Lamine se pone a cien con el gol como desafío</description>
+            <pubDate>Thu, 18 Feb 2025 08:00:00 +0000</pubDate>
+            <guid>https://www.sport.es/es/noticias/barca/lamine-yamal-pone-cien-gol-desafio-fc-barcelona-114439594</guid>
+        </item>
+
+        <!-- Notícia 2 -->
+        <item>
+            <title>El Barça guanya a casa amb un gran partit</title>
+            <link>https://www.sport.es/es/noticias/barca/barca-guanya-a-casa-amb-un-gran-partit-114439595</link>
+            <description>El Barça supera el seu rival a casa amb una gran actuació dels seus jugadors.</description>
+            <pubDate>Fri, 19 Feb 2025 10:30:00 +0000</pubDate>
+            <guid>https://www.sport.es/es/noticies/barca/barca-guanya-a-casa-amb-un-gran-partit-114439595</guid>
+        </item>
+
+        <!-- Notícia 3 (Mallorca) -->
+        <item>
+            <title>El Mallorca aconsegueix una gran victòria fora de casa</title>
+            <link>https://www.sport.es/es/noticies/mallorca/mallorca-victoria-sevilla-114439596</link>
+            <description>El Mallorca ha aconseguit una victòria històrica fora de casa contra el Sevilla, sumant tres punts valuosos per la classificació.</description>
+            <pubDate>Sat, 20 Feb 2025 12:00:00 +0000</pubDate>
+            <guid>https://www.sport.es/es/noticies/mallorca/mallorca-victoria-sevilla-114439596</guid>
+        </item>
+
+        <!-- Notícia 4 (Mallorca) -->
+        <item>
+            <title>El Mallorca es classifica per a la Copa del Rei</title>
+            <link>https://www.sport.es/es/noticies/mallorca/mallorca-classificat-copa-del-rei-114439597</link>
+            <description>Després d'una gran actuació al partit contra l'Alavés, el Mallorca es classifica per a la següent ronda de la Copa del Rei.</description>
+            <pubDate>Sun, 21 Feb 2025 15:45:00 +0000</pubDate>
+            <guid>https://www.sport.es/es/noticies/mallorca/mallorca-classificat-copa-del-rei-114439597</guid>
+        </item>
+
+    </channel>
+</rss>
+
