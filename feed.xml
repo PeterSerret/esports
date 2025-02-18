@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Notícies d'Exemple</title>
+        <link>https://www.exemple.com</link>
+        <description>Últimes notícies de la ciutat</description>
+        <language>ca</language>
+        <pubDate>Sun, 18 Feb 2025 08:00:00 +0000</pubDate>
+        
+        <item>
+            <title>Notícia destacada del dia</title>
+            <link>https://www.exemple.com/noticia</link>
+            <description>Avui, un esdeveniment important ha tingut lloc a la ciutat. Els ciutadans estan celebrant aquest moment històric.</description>
+            <pubDate>Sun, 18 Feb 2025 08:00:00 +0000</pubDate>
+            <guid>https://www.exemple.com/noticia</guid>
+        </item>
+        
+    </channel>
+</rss>
