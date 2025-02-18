@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Notícies d'Esport</title>
+        <link>https://www.sport.es</link>
+        <description>Últimes notícies sobre esports</description>
+        <language>ca</language>
+        <pubDate>Thu, 18 Feb 2025 08:00:00 +0000</pubDate>
+
+        <!-- Notícia 1 -->
+        <item>
+            <title>Lamine se pone a cien con el gol como desafío</title>
+            <link>https://www.sport.es/es/noticias/barca/lamine-yamal-pone-cien-gol-desafio-fc-barcelona-114439594</link>
+            <description>Lamine se pone a cien con el gol como desafío</description>
+            <pubDate>Thu, 18 Feb 2025 08:00:00 +0000</pubDate>
+            <guid>https://www.sport.es/es/noticias/barca/lamine-yamal-pone-cien-gol-desafio-fc-barcelona-114439594</guid>
+        </item>
+
+        <!-- Notícia 2 -->
+        <item>
+            <title>Ureña, la gran esperanza del Barça Atlètic</title>
+            <link>https://www.sport.es/es/noticias/barca/urena-gran-esperanza-barca-atletic-114442762</link>
+            <description>El de Figueres ha regresado con mucha fuerza después de una larga lesión y el filial necesita de un jugador diferencial para salir de la crisis</description>
+            <pubDate>Fri, 19 Feb 2025 10:30:00 +0000</pubDate>
+            <guid>https://www.sport.es/es/noticias/barca/urena-gran-esperanza-barca-atletic-114442762</guid>
+        </item>
+
+        <!-- Notícia 3  -->
+        <item>
+            <title>El Barça ya conoce a uno de sus posibles rivales</title>
+            <link>https://www.sport.es/es/noticias/barca/barca-conoce-posibles-rivales-114448687</link>
+            <description>El Benfica ha eliminado al Mónaco. El otro posible rival será casi con toda seguridad el PSG</description>
+            <pubDate>Sat, 20 Feb 2025 12:00:00 +0000</pubDate>
+            <guid>https://www.sport.es/es/noticias/barca/barca-conoce-posibles-rivales-114448687</guid>
+        </item>
+
+        <!-- Notícia 4 -->
+        <item>
+            <title>La Masia se mide a Lezama: Otra final anticipada para el Juvenil A de Belletti</title>
+            <link>https://www.sport.es/es/noticias/barca/futbol-base/masia-mide-lezama-final-anticipada-114437475</link>
+            <description>El Barça afronta este miércoles (17h) en el Johan Cruyff el partido único de cuartos de final de la copa del rey juvenil contra el Athletic Club de Bilbao. Será un duelo entre dos de las mejores canteras del mundo.</description>
+            <pubDate>Sun, 21 Feb 2025 15:45:00 +0000</pubDate>
+            <guid>https://www.sport.es/es/noticias/barca/futbol-base/masia-mide-lezama-final-anticipada-114437475</guid>
+        </item>
+
+    </channel>
+</rss>
+
